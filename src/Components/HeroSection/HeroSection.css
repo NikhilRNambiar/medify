@@ -1,0 +1,78 @@
+.hero-container {
+    background: #f0f5ff;
+    /* padding: 50px; */
+    /* text-align: center; */
+    display: flex;
+    /* margin-left: 95px; */
+    background: linear-gradient(81deg, #E7F0FF 9.01%, rgba(232, 241, 255, 0.47) 89.11%);
+    position:relative;
+    margin-top: 20px;
+    margin-left: 80px;
+
+  }
+  .hero{
+    width:100%;
+  }
+  
+  .hero-title {
+    font-size: 31px;
+    font-weight: 500;
+    color: #2d2d2d;
+    font-family: Poppins,sans-serif;
+    margin-left: 50px;
+  }
+  
+  .center {
+    color: #007bff;
+    font-weight: 700;
+    font-size: 56px;
+  }
+
+  .medical{
+    font-weight: 700;
+    font-size: 56px;
+  }
+  
+  .hero-subtitle {
+    font-size: 20px;
+    font-weight: 400;
+    color: #5C6169;
+    margin-bottom: 20px;
+    font-family: Poppins,sans-serif;
+    padding-left: 50px;
+  }
+  
+  .hero-button {
+    background-color: #2AA8FF;
+    height:48px;
+    width:177px;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: poppins,sans-serif;
+    cursor: pointer;
+    margin-left: 50px;
+    
+  }
+  
+  .hero-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .img{
+    width: 585px;
+    height: 481px;
+    padding-left: 90px;
+  }
+
+
+  .textDiv{
+    width: 663px;
+    height: 207px;
+    
+
+
+  }

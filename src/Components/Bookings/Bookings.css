@@ -1,0 +1,76 @@
+.booking-div{
+    height: 110px;
+    border-radius: 0 0 16px 16px;
+    background: linear-gradient(91.75deg, #2AA7FF 1.4%, #0C8CE6 100.57%);
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+}
+
+.booking-div h2{
+    width: 403px;
+    height: 46px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 45.96px;
+    color:white;
+    margin-left: 140px;
+    margin-bottom: 10px;
+
+}
+
+.booking-search{
+    width: 780px;
+    height: 104px;
+    top: 176px;
+    left: 521px;
+    border-radius: 15px;
+    background: #FFFFFF;
+    box-shadow: 6px 6px 35px 0px #1028511C;
+    display: flex;
+    align-items: center;
+    position: absolute;
+
+}
+
+.booking-search input{
+    width: 545px;
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid #F0F0F0;
+    margin-right:10px;
+    margin-left: 15px;
+
+}
+
+.booking-search button{
+    width: 177px;
+    height: 50px;
+    border-radius: 8px ;
+    background: #2AA8FF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+
+
+}
+
+.booking-card{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+
+.banner1{
+    width: 310px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 15px;
+    align-self: flex-start;
+    margin-top:100px;
+}

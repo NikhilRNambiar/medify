@@ -1,0 +1,134 @@
+.faq-section-container {
+   
+    width:100%;
+    background-color: white;
+    /* position: absolute;
+    top:5100px; */
+  }
+  
+  .faq-image-container {
+    position: relative;
+    margin-right: 50px;
+  }
+  
+  .faq-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .faq-image-overlay {
+    position: absolute;
+    bottom: 150px;
+    left: -30px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .circle{
+    position:absolute;
+    bottom:300px;
+    left:480px;
+  }
+  .faq-icon {
+    font-size: 30px;
+    color: #ffce00;
+    margin-right: 10px;
+  }
+  
+  .faq-image-overlay h3 {
+    color: #0056b3;
+    margin: 0;
+  }
+  
+  .faq-image-overlay p {
+    margin: 0;
+    color: #7a7a7a;
+  }
+  
+  .faq-content-container {
+    max-width: 500px;
+  }
+  
+  .faq-header {
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 27px;
+    color: #2AA7FF;
+    
+
+
+  }
+  
+  .faq-title {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 67px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #1B3C74;
+    margin:0 !important;
+
+  }
+  
+  .faq-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .faq-list li {
+    margin-bottom: 70px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #1B3C74;
+
+
+  }
+  
+  .faq-list li span {
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 18px;
+    color: #2AA7FF;
+    margin-left:10px;
+
+
+  }
+
+
+  .faq-head{
+    text-align: center;
+  }
+  
+
+  h3{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 33.6px;
+    color: #1B3C74;
+  }
+
+  .faq-patient{
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #77829D;
+
+
+  }
