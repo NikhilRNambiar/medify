@@ -73,10 +73,9 @@
 }
 
 .hospital-card{
-    /* position:absolute;
-    top:480px;
-    left:200px; */
+   
     margin-bottom: 20px;
+    margin-right: 15px;
 }
 
 .banner{
@@ -84,9 +83,7 @@
     height: 268px;
     border-radius: 15px;
     margin-left: 15px;
-    /* position: absolute;
-    top:480px;
-    right:160px; */
+    
     align-self: flex-start;
 }
 
@@ -97,7 +94,65 @@
 }
 
 .search-faq{
-    /* position: absolute;
-    top:850px; */
+    
     width: 100%;
 }
+
+
+
+
+
+/* @media (max-width: 1023px) {
+    .search-div {
+        top: 160px;
+        flex-direction: column;
+        height: auto;
+        padding: 20px;
+    }
+
+    .search-div input, .search-button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .card-div {
+        margin-top: 300px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .search-div {
+        top: 190px;
+        padding: 15px;
+    }
+
+    .para2 {
+        font-size: 20px;
+    }
+
+    .para1 {
+        font-size: 14px;
+    }
+
+    .card-div {
+        margin-top: 150px;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .hospital-card {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+
+    .banner {
+        margin-left: 0;
+        width: 100%;
+        height: auto;
+    }
+
+    .searchRes {
+        margin-top: 20px;
+    }
+} */
